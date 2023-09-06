@@ -1,5 +1,6 @@
 {
 	"author":"Pankaj Binwal",
+	"description": "This is my first app on freecode camp and i will be a billionare soon",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
